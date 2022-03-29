@@ -1,3 +1,5 @@
 <?php 
-    //TODO: CONEXION DE MYSQL
+    class mysql {
+        protected $mysql = array();
+    }
 ?>
